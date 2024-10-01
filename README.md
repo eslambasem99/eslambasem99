@@ -5,4 +5,7 @@ A Machine Learning Engineer with solid experience in Machine learning, Deep Lear
 - 📫 How to reach me: [eslambasem99@gmail.com](mailto:eslambasem99@gmail.com)
 
 
-
+## Languages and Tools:
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
